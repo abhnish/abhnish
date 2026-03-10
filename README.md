@@ -106,48 +106,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Mission Logs (Featured Projects)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Projects-Deployed_Ready-black?style=for-the-badge&logo=rocket&logoColor=white&color=00FF41" alt="Projects"/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/abhnish/FinGenie">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnish&repo=FinGenie&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
-  </a>
-  <a href="https://github.com/abhnish/JobGenie">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnish&repo=JobGenie&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/abhnish/CRM">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnish&repo=CRM&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
-  </a>
-  <a href="https://github.com/abhnish/attendance-tracker-sih">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnish&repo=attendance-tracker-sih&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
-  </a>
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30px"> Contribution Matrix
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Contributions-Active-black?style=for-the-badge&logo=github&logoColor=white&color=00FF41" alt="Contributions"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhnish&show_icons=true&hide_title=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhnish&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" alt="Top Languages"/>
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30px"> Open Source Warfare
 
 ```bash
