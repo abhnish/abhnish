@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhnishkumar/abhnishkumar/main/assets/banner-dark.gif">
-    <img src="https://raw.githubusercontent.com/abhnishkumar/abhnishkumar/main/assets/banner-light.gif" alt="Animated Banner">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhnish/abhnish/main/assets/banner-dark.gif">
+    <img src="https://raw.githubusercontent.com/abhnish/abhnish/main/assets/banner-light.gif" alt="Animated Banner">
   </picture>
 </div>
 
@@ -10,19 +10,19 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/abhnishkumar" target="_blank">
+  <a href="https://linkedin.com/in/abhnish" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=00FF41" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/abhnishkumar" target="_blank">
+  <a href="https://twitter.com/abhnish" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=black&color=00FF41" alt="Twitter"/>
   </a>
-  <a href="https://github.com/abhnishkumar" target="_blank">
+  <a href="https://github.com/abhnish" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=00FF41" alt="GitHub"/>
   </a>
-  <a href="mailto:abhnishkumar@example.com" target="_blank">
+  <a href="mailto:abhnish@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=00FF41" alt="Email"/>
   </a>
-  <a href="https://abhnishkumar.dev" target="_blank">
+  <a href="https://abhnish.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%233B82F6.svg?&style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=00FF41" alt="Portfolio"/>
   </a>
 </div>
@@ -38,7 +38,7 @@
 ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30px"> System Information
 
 ```bash
-┌───[ abhnishkumar@cyberspace ]─[ ~ ]
+┌───[ abhnish@cyberspace ]─[ ~ ]
 └──╼ $ cat /proc/about_me
 {
   "identity": {
@@ -120,20 +120,20 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/abhnishkumar/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnishkumar&repo=project1&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
+  <a href="https://github.com/abhnish/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnish&repo=project1&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
   </a>
-  <a href="https://github.com/abhnishkumar/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnishkumar&repo=project2&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
+  <a href="https://github.com/abhnish/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnish&repo=project2&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/abhnishkumar/project3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnishkumar&repo=project3&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
+  <a href="https://github.com/abhnish/project3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnish&repo=project3&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
   </a>
-  <a href="https://github.com/abhnishkumar/project4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnishkumar&repo=project4&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
+  <a href="https://github.com/abhnish/project4">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhnish&repo=project4&theme=merko&hide_border=true&border_radius=10&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" />
   </a>
 </div>
 
@@ -146,16 +146,16 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhnishkumar&theme=merko&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&show_icons=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhnishkumar&theme=merko&hide_border=true&border_radius=10&stroke=00ff41&fire=ff0000&ring=00ff41&background=000000&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhnish&theme=merko&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&show_icons=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhnish&theme=merko&hide_border=true&border_radius=10&stroke=00ff41&fire=ff0000&ring=00ff41&background=000000&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhnishkumar&theme=merko&hide_border=true&border_radius=10&area=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000&color=00ff41&line=ff0000&point=ffffff" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhnish&theme=merko&hide_border=true&border_radius=10&area=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000&color=00ff41&line=ff0000&point=ffffff" alt="GitHub Activity Graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhnishkumar&theme=merko&no-frame=true&no-bg=true&margin-w=4&title=00ff41&text=ffffff&icon=00ff41&border=00ff41" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhnish&theme=merko&no-frame=true&no-bg=true&margin-w=4&title=00ff41&text=ffffff&icon=00ff41&border=00ff41" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -163,7 +163,7 @@
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30px"> Open Source Warfare
 
 ```bash
-┌───[ abhnishkumar@cyberspace ]─[ ~/open_source ]
+┌───[ abhnish@cyberspace ]─[ ~/open_source ]
 └──╼ $ git log --author="cyber_ninja" --oneline --graph | head -15
 * 1337h4x ✨ Contributed to 50+ open source projects
 * d34db33f 🐛 Fixed 100+ bugs across various repositories  
@@ -178,7 +178,7 @@
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhnishkumar&theme=merko&hide_border=true&border_radius=10&layout=compact&langs_count=8&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhnish&theme=merko&hide_border=true&border_radius=10&layout=compact&langs_count=8&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -192,7 +192,7 @@
 ## <img src="https://media.giphy.com/media/du3J3eXho1sqNB2QGn/giphy.gif" width="30px"> Establish Connection
 
 ```bash
-┌───[ abhnishkumar@cyberspace ]─[ ~/communication ]
+┌───[ abhnish@cyberspace ]─[ ~/communication ]
 └──╼ $ echo "Let's hack the future together!"
 🚀 Connection established. Awaiting transmission...
 ```
@@ -204,16 +204,16 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/abhnishkumar" target="_blank">
+  <a href="https://linkedin.com/in/abhnish" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=white&color=00FF41" alt="LinkedIn Connect"/>
   </a>
-  <a href="https://twitter.com/abhnishkumar" target="_blank">
+  <a href="https://twitter.com/abhnish" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=twitter&logoColor=white&color=00FF41" alt="Twitter Follow"/>
   </a>
-  <a href="mailto:abhnishkumar@example.com" target="_blank">
+  <a href="mailto:abhnish@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Say_Hi-black?style=for-the-badge&logo=gmail&logoColor=white&color=00FF41" alt="Email Say Hi"/>
   </a>
-  <a href="https://discord.gg/abhnishkumar" target="_blank">
+  <a href="https://discord.gg/abhnish" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Join_Community-black?style=for-the-badge&logo=discord&logoColor=white&color=00FF41" alt="Discord"/>
   </a>
 </div>
@@ -221,7 +221,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhnishkumar&style=for-the-badge&color=00FF41&labelColor=black&logo=eye" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=abhnish&style=for-the-badge&color=00FF41&labelColor=black&logo=eye" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Visitors-Total-black?style=for-the-badge&logo=visitor&logoColor=white&color=00FF41" alt="Total Visitors"/>
 </div>
 
@@ -243,7 +243,7 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px"> System Diagnostics
 
 ```bash
-┌───[ abhnishkumar@cyberspace ]─[ ~/diagnostics ]
+┌───[ abhnish@cyberspace ]─[ ~/diagnostics ]
 └──╼ $ cat /proc/system_info
 {
   "current_focus": "Advanced AI/ML and quantum computing",
@@ -271,7 +271,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/abhnishkumar/abhnishkumar/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://github.com/abhnish/abhnish/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </div>
 
 ---
@@ -279,7 +279,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Created_with-❤️_by_cyber_ninja-black?style=for-the-badge&logo=heart&logoColor=white&color=00FF41" alt="Created with ❤️"/>
   <br>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/abhnishkumar/abhnishkumar&query=$.pushed_at&label=Last%20Hack&color=00FF41&style=flat-square&labelColor=black" alt="Last Updated"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/abhnish/abhnish&query=$.pushed_at&label=Last%20Hack&color=00FF41&style=flat-square&labelColor=black" alt="Last Updated"/>
 </div>
 
 ---
