@@ -1,11 +1,4 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhnish/abhnish/main/assets/banner-dark.gif">
-    <img src="https://raw.githubusercontent.com/abhnish/abhnish/main/assets/banner-light.gif" alt="Animated Banner">
-  </picture>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%3E%24+whoami;Abhnish+Kumar+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full+Stack+Dev+%7C+AI+Builder+%7C+Open+Source+Contributor;%3E%24+status%3D%F0%9F%9A%80+Hacking+the+Future" alt="Hacker Typing SVG" />
 </div>
 
@@ -267,15 +260,9 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/abhnish/abhnish/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</div>
-
----
-
-<div align="center">
   <img src="https://img.shields.io/badge/Created_with-❤️_by_cyber_ninja-black?style=for-the-badge&logo=heart&logoColor=white&color=00FF41" alt="Created with ❤️"/>
   <br>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/abhnish/abhnish&query=$.pushed_at&label=Last%20Hack&color=00FF41&style=flat-square&labelColor=black" alt="Last Updated"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/abhnish/abhnishkumar&query=$.pushed_at&label=Last%20Hack&color=00FF41&style=flat-square&labelColor=black" alt="Last Updated"/>
 </div>
 
 ---
