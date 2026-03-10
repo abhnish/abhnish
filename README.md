@@ -220,7 +220,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Created_with-❤️_by_cyber_ninja-black?style=for-the-badge&logo=heart&logoColor=white&color=00FF41" alt="Created with ❤️"/>
+  <img src="https://img.shields.io/badge/Created_with-❤️_by_abhnish-black?style=for-the-badge&logo=heart&logoColor=white&color=00FF41" alt="Created with ❤️"/>
   <br>
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/abhnish/abhnishkumar&query=$.pushed_at&label=Last%20Hack&color=00FF41&style=flat-square&labelColor=black" alt="Last Updated"/>
 </div>
