@@ -111,13 +111,13 @@
   <tr>
     <td width="50%" align="center">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=abhnish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+        src="https://github-readme-stats.vercel.app/api?username=abhnish&show_icons=true&hide_border=true" 
         alt="GitHub Stats"
       />
     </td>
     <td width="50%" align="center">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=abhnish&layout=compact&theme=tokyonight&hide_border=true" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=abhnish&layout=compact&hide_border=true" 
         alt="Top Languages"
       />
     </td>
