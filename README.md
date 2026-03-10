@@ -139,12 +139,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhnish&theme=merko&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&show_icons=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhnish&theme=merko&hide_border=true&border_radius=10&stroke=00ff41&fire=ff0000&ring=00ff41&background=000000&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhnish&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhnish" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhnish&theme=merko&hide_border=true&border_radius=10&layout=compact&langs_count=8&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhnish&layout=compact&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
@@ -165,10 +165,6 @@
 * c0d3r 📚 Created comprehensive learning resources
 * h4ck3r 🎪 Participated in 10+ hackathons and CTFs
 ```
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhnish&theme=merko&hide_border=true&border_radius=10&layout=compact&langs_count=8&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=000000" alt="Top Languages"/>
-</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Contributions-50%2B_Projects-black?style=flat-square&logo=opensource&logoColor=white&color=00FF41" alt="Contributions"/>
